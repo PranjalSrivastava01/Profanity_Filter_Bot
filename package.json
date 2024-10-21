@@ -17,5 +17,8 @@
     "mongoose": "^8.3.2",
     "nodemon": "^3.1.0",
     "request": "^2.88.2"
+  },
+  "bin": {
+    "execute": "index.js"
   }
 }
